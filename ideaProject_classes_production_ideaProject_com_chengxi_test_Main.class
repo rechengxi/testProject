@@ -1,0 +1,17 @@
+
+  // IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+package com.chengxi.test;
+
+public class Main extends java.lang.Exception {
+    public Main() { /* compiled code */ }
+
+    public static void main(java.lang.String[] args) { /* compiled code */ }
+
+    class InnerClass {
+        InnerClass() { /* compiled code */ }
+
+        public java.lang.String getName() { /* compiled code */ }
+    }
+}
